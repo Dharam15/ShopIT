@@ -39,5 +39,5 @@ Techniques
 RecycleView, ToolBar, CardView, Volley, Gson, ListView, NestedScroll, DrawerLayout, ActionBarDrawerToggle, NavigationView, ProgressBar, DialogFragment, Fragments, BottomSheet and more
 Develeped By
 
-    Auther : Dharam Pankhania
+    Developer : Dharam Pankhania
     Email : dharam991@gmail.com
