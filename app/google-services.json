@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "956876781434",
+    "firebase_url": "https://shopit-c55ce.firebaseio.com",
+    "project_id": "shopit-c55ce",
+    "storage_bucket": "shopit-c55ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956876781434:android:c13fc762e992be8d",
+        "android_client_info": {
+          "package_name": "com.example.ShopIT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956876781434-v5tf1qa2e9v9ub5dvulhj2q0aeka3ln8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOlhDWy1cncPOG9mt7Pw9U4CQiyw4pSBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956876781434-v5tf1qa2e9v9ub5dvulhj2q0aeka3ln8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956876781434:android:fc2e5bf9fd675b98",
+        "android_client_info": {
+          "package_name": "com.example.shoppingmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956876781434-s267t2pl216iig80dnfu7vakq85glr2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppingmart",
+            "certificate_hash": "24ec709e2e848a0aaea46db6069dc1199e0e2f83"
+          }
+        },
+        {
+          "client_id": "956876781434-v5tf1qa2e9v9ub5dvulhj2q0aeka3ln8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOlhDWy1cncPOG9mt7Pw9U4CQiyw4pSBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956876781434-v5tf1qa2e9v9ub5dvulhj2q0aeka3ln8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
