@@ -1,7 +1,7 @@
-ShopIT
+#ShopIT
 
 
-Requirement
+##Requirement
 
 -Android studio : 3.0.1
 
@@ -12,11 +12,11 @@ Requirement
 -target sdk : 27
 
 -language : java
-What you should know
+-----------What you should know------------
 
 -Android basics (project structure, how to make hello world! app )
 
-*if you don't have any knowledge about android there will be anther tutorials for beginners don't worry
+*if you don't have any knowledge about android there will be anther tutorials for beginners don't worry*
 
 -Java Basics
 Features
@@ -34,7 +34,7 @@ Features
 -filters
 
 -search
-Techniques
+##Techniques
 
 RecycleView, ToolBar, CardView, Volley, Gson, ListView, NestedScroll, DrawerLayout, ActionBarDrawerToggle, NavigationView, ProgressBar, DialogFragment, Fragments, BottomSheet and more
 Develeped By
