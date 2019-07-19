@@ -17,7 +17,7 @@
 
 -Android basics (project structure, how to make hello world! app )
 
-*if you don't have any knowledge about android there will be anther tutorials for beginners don't worry*
+*if you don't have any knowledge about android there will be another tutorials for beginners don't worry*
 
 -Java Basics
 Features
